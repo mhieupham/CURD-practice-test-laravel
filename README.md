@@ -1,0 +1,1 @@
+CURD student firstname lastname with laravel 
